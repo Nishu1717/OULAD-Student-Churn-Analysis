@@ -1,6 +1,6 @@
 # Dataset Information
 
-The datasets used in this project Open University Learning Analytics Dataset (OULAD).
+The datasets used in this project is the Open University Learning Analytics Dataset (OULAD).
 
 Due to their large size, they are not hosted directly in this repository's main view but are required for the analysis.
 
